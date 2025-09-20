@@ -162,6 +162,9 @@ section div{
     padding: 10px;
     line-height: 2rem;
 }
+@media (max-width: 480px) {
+  body { font-size: 14px; }
+    
 @media (max-width: 768px){
     img[alt="options"] {
         right: 25px;
