@@ -5,7 +5,6 @@ function showMenu () {
     console.log('clicked');
 
 }
-showMenu();
 
 const videos = document.querySelectorAll("video");
 
