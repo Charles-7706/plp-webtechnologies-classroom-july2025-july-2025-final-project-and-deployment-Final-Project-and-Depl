@@ -20,7 +20,7 @@ This is a simple web development project containing several HTML pages, images, 
 
 ## How to Run
 1. Clone or download the project files.
-2. Open `index.html` in your web browser to view the site.
+2. Open `https://precious-arithmetic-e316f1.netlify.app/` in your web browser to view the site.
 
 ## Author
 - Created by Charles Kuria
